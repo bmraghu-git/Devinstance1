@@ -1,3 +1,3 @@
 public class DemoClass {
-    //This is a demo class for developer 2
+    //This is a new demo class for developer 2
 }
